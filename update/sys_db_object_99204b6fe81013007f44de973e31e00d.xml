@@ -24,15 +24,15 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-02-21 19:40:39</sys_created_on>
         <sys_id>99204b6fe81013007f44de973e31e00d</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Loaner Request</sys_name>
         <sys_package display_value="Loaner Request" source="x_snc_loaner_reque">349e32ebe81013007f44de973e31e0ec</sys_package>
         <sys_policy/>
         <sys_scope display_value="Loaner Request">349e32ebe81013007f44de973e31e0ec</sys_scope>
         <sys_update_name>sys_db_object_99204b6fe81013007f44de973e31e00d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-02-21 19:40:40</sys_updated_on>
-        <update_access>false</update_access>
+        <sys_updated_on>2018-02-22 21:11:34</sys_updated_on>
+        <update_access>true</update_access>
         <user_role display_value="x_snc_loaner_reque.loaner_request_user" name="x_snc_loaner_reque.loaner_request_user">1e80c76fe81013007f44de973e31e05b</user_role>
         <ws_access>true</ws_access>
     </sys_db_object>
